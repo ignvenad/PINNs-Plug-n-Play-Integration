@@ -1,0 +1,21 @@
+freq: 60
+inertia_H:
+  machine1: 23.64
+  machine2: 6.4
+  machine3: 3.01
+Rs:
+  machine1: 0.0
+  machine2: 0.0
+  machine3: 0.0
+Xd_prime:
+  machine1: 0.0608
+  machine2: 0.1198
+  machine3: 0.1813
+Pg_setpoints:
+  machine1: 0.71357178
+  machine2: 1.62893943
+  machine3: 0.85115816
+Damping_D:
+  machine1: 2.364
+  machine2: 1.28
+  machine3: 0.903

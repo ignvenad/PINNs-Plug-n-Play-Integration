@@ -1,0 +1,29 @@
+freq: 60
+Voltage_magnitude:
+  machine1: 1.04
+  machine2: 1.025
+  machine3: 1.025
+Voltage_angle:
+  machine1: 0.
+  machine2: 9.3
+  machine3: 4.7
+Rs:
+  machine1: 0.0
+  machine2: 0.0
+  machine3: 0.0
+Xd:
+  machine1: 0.146
+  machine2: 0.8958
+  machine3: 1.3125
+Xd_prime:
+  machine1: 0.0608
+  machine2: 0.1198
+  machine3: 0.1813
+Xq:
+  machine1: 0.0969
+  machine2: 0.8645
+  machine3: 1.2578
+Xq_prime:
+  machine1: 0.0969
+  machine2: 0.1969
+  machine3: 0..25
