@@ -40,6 +40,10 @@ The simulation parameters invoked with [main.py](https://github.com/ignvenad/PIN
 - `w_setpoint` Relative rotor-angle speed &Delta; &omega; steps.
 - `p_setpoint` Mechanical power output &#80; steps.
 
+<p align="center">
+<img align="middle" src="./assets/Figure_1.png" alt="ODE Demo" width="800" height="450" />
+</p>
+
 ## Basic Usage
 This library provides one main interface `main` which contains all the information required to run the desired DAE simulations.
 
@@ -58,20 +62,39 @@ The results published in the pre-print can be attained with the following parame
 #### Overview figure `--study_selection` = 1
 Depicts all simulation variables for the specific case and failure studied.
 
+<p align="center">
+<img align="middle" src="./assets/Figure_1.png" alt="ODE Demo" width="800" height="450" />
+</p>
+
 #### Figure 2 with `--time_step_size` = 8e-3, `--sim_time` = 10, and `--study_selection` = 2
 Depicts Figure 4 from the manuscript.
+<p align="center">
+<img align="middle" src="./assets/Figure_4.png" alt="ODE Demo" width="800" height="450" />
+</p>
 
 #### Figure 3 with `--time_step_size` = 4e-2, `--sim_time` = 2, and `--study_selection` = 2
 Depicts Figure 5 from the manuscript.
+<p align="center">
+<img align="middle" src="./assets/Figure_5.png" alt="ODE Demo" width="800" height="450" />
+</p>
 
 #### Figure 4 with `--time_step_size` = [1e-3:4e-2] and `--study_selection` = 3
 Depicts Figure 6 from the manuscript.
+<p align="center">
+<img align="middle" src="./assets/Figure_6.png" alt="ODE Demo" width="800" height="450" />
+</p>
 
 #### Figure 5 with `--time_step_size` = 1e-2 and `--study_selection` = 4
 Depicts Figure 7 from the manuscript.
+<p align="center">
+<img align="middle" src="./assets/Figure_7.png" alt="ODE Demo" width="800" height="450" />
+</p>
 
 #### Figure 6 with `--time_step_size` = [1e-3:4e-2] and `--study_selection` = 5
 Depicts Figure 8 from the manuscript.
+<p align="center">
+<img align="middle" src="./assets/Figure_8.png" alt="ODE Demo" width="800" height="450" />
+</p>
 
 
 ## References
